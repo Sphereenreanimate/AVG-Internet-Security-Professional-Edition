@@ -1,0 +1,23 @@
+{
+  "repo": "avg-internet-security-professional-edition",
+  "product": "AVG Internet Security Professional Edition",
+  "kind": "security",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "security",
+  "topics": [
+    "avg-internet-security",
+    "firewall-plus",
+    "ransomware-shield",
+    "email-scan",
+    "safe-search",
+    "avg-setup-failed-fix",
+    "how-to-install-avg",
+    "avg-windows",
+    "avg-desktop-2026",
+    "avg-desktop-package"
+  ],
+  "site": "toolix.me"
+}
